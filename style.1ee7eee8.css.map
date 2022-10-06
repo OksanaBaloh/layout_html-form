@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AACA,iCACE,kBACF,CAEA,8BACE,kBAAmB,CACnB,aACF","file":"style.1ee7eee8.css","sourceRoot":"../src","sourcesContent":["/* styles go here */\n.form__fieldset:not(:last-child) {\n  margin-bottom: 20px;\n}\n\n.form__field:not(:last-child) {\n  margin-bottom: 10px;\n  display: block;\n}\n\n/* for test commit */\n"]}
